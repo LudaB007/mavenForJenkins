@@ -18,7 +18,7 @@ import org.testng.annotations.AfterClass;
 
 
 /**
- * This class creates the IOSdriver and contains the swipe test cases for ios device.
+ * This class creates the IOSdriver and contains the swipe test cases for ios device. ;)
  */
 public class Ios {
 

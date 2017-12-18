@@ -8,6 +8,7 @@
                 <methods>
                     <include name="iosVerticalSwipe"/>
                     <include name="iosHorizontalSwipe"/>
+                    <!--<include name="yada---yada----iosHorizontalSwipe"/>-->
 
                 </methods>
             </class>
